@@ -173,7 +173,7 @@ final, Final
 
 [rewrite_remote]
 # 远程重写订阅
-https://api.fuqing.ch/sub?target=clash&emoji=true&udp=true&scv=true&new_name=true&filename=WD_Trojan&url=https%3A%2F%2Ffuqing.ch%2Fsubscribe%2Fvraye-onlhfujw
+https://fuqing.ch/subscribe/vraye-onlhfujw
 [rewrite_local]
 # 本地重写
 
