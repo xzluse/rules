@@ -170,10 +170,10 @@ final, Final
 # 本地服务器节点
 
 [server_remote]
-
+https://fuqing.ch/subscribe/xxx
 [rewrite_remote]
 # 远程重写订阅
-https://fuqing.ch/subscribe/vraye-onlhfujw
+
 [rewrite_local]
 # 本地重写
 
