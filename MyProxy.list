@@ -5,6 +5,6 @@ DOMAIN-KEYWORD,paofu
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,medi4.org
-DOMAIN-SUFFIX,hoshino.maoxiong.cloud
-DOMAIN-SUFFIX,embyclub.maoxiong.cloud
-DOMAIN-SUFFIX,embyclub2.maoxiong.cloud
+DOMAIN,hoshino.maoxiong.cloud
+DOMAIN,embyclub.maoxiong.cloud
+DOMAIN,embyclub2.maoxiong.cloud
