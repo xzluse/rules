@@ -1,14 +1,11 @@
 # 内容：自定义特殊网站
 # 域名关键字匹配
-
 DOMAIN-KEYWORD,maoxiong
 DOMAIN-KEYWORD,hoshino
 DOMAIN-KEYWORD,emby
 DOMAIN-KEYWORD,pornemby
 
 # 域名后缀匹配
-
-
 DOMAIN-SUFFIX,emby.moe
 DOMAIN-SUFFIX,pro.emby.moe
 DOMAIN-SUFFIX,maoxiong.cloud
